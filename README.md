@@ -5,13 +5,13 @@ Design Brief | Teamopdracht Buitenruimte
 
 ### Projectinformatie
 
-| :--- | :--- |
 | **Opdrachtgever** | FDND |
 | **Contactpersoon** | Joost Faber · [j.faber@hva.nl](mailto:j.faber@hva.nl) |
 | **Project** | FDND Etalage |
 | **Teamnaam** | Nog te bepalen |
 | **Teamleden** | Kioko Reijerts (500920481), Joost Locher (500861029) en Safae El Arrass (500879087) |
 | **Datum** | 20 november 2026 |
+
 
 ### Aanleiding
 
