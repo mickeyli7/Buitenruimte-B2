@@ -3,24 +3,28 @@
 ## FDND Etalage
 Design Brief | Teamopdracht Buitenruimte
 
-### Projectinformatie
+### Project Informatie
 
-| **Opdrachtgever** | FDND |
-| **Contactpersoon** | Joost Faber · [j.faber@hva.nl](mailto:j.faber@hva.nl) |
-| **Project** | FDND Etalage |
-| **Teamnaam** | Nog te bepalen |
-| **Teamleden** | Kioko Reijerts (500920481), Joost Locher (500861029) en Safae El Arrass (500879087) |
-| **Datum** | 20 november 2026 |
+**Opdrachtgever:** FDND  
+**Contactpersoon:** Joost Faber · [j.faber@hva.nl](mailto:j.faber@hva.nl)  
+**Project:** FDND Etalage  
+**Teamnaam:** Nog te bepalen  
+**Teamleden:** Kioko Reijerts, Joost Locher en Safae El Arrass  
+**Datum:** 20 november 2026
 
+---
 
-### Aanleiding
+### 1. Aanleiding
 
 De huidige projectpagina van de studie FDND (onze opdrachtgever) is moeilijk te begrijpen en overzien voor hun mogelijke opdrachtgevers.
 
 Onze opdrachtgever heeft een etalage-website nodig om projecten mooi en overzichtelijk aan mogelijke opdrachtgevers te laten zien.
 
-### Stakeholders
+---
 
+### 2. Stakeholders
+
+| Stakeholder | Belang |
 | :--- | :--- |
 | **FDND** | Projecten visueel presenteren en het werk laten zien aan opdrachtgevers. |
 | **FDND-studenten** | Eerdere projecten terugvinden en inzicht krijgen in het projectproces. |
@@ -29,22 +33,33 @@ Onze opdrachtgever heeft een etalage-website nodig om projecten mooi en overzich
 | **Potentiële studenten** | Zien aan welke projecten tijdens de opleiding wordt gewerkt. |
 | **CMD-studenten** | Projecten en processen terugzien wanneer zij werk overnemen. |
 
+<br>
+
 **Doelgroep bereiken**
+
 Contact op leggen met oude opdrachtgevers,
 
-### Design Challenge
+---
+
+### 3. Design Challenge
 
 FDND wil de huidige projectetalage verder ontwikkelen, zodat de projecten en hun verhalen duidelijk naar voren komen om zowel nieuwe als huidige opdrachtgevers enthousiast te maken over het werk van FDND.
 
 ### Taakverdeling
-
+| Teamlid | Verantwoordelijkheid |
 | :--- | :--- |
 | **Kioko** | ... |
 | **Joost** | ... |
 | **Rafea** | ... |
 | **Student** | ... |
 
-### Afbakening van het probleem
+---
+
+### 4. Afbakening van het probleem
+...
+
+---
 
 ### Bronnen
-
+- ...
+- ...
