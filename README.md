@@ -61,5 +61,5 @@ Wij willen een duidelijke en goed onderbouwde prototype maken van de overzichtsp
 ---
 
 ### Bronnen
-- ...
-- ...
+- https://dashboard.fdnd.nl
+- https://www.frankwatching.com/archive/2020/09/10/ultieme-debriefing-checklist-11-stappen/
