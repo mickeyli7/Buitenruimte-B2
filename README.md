@@ -55,7 +55,8 @@ FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande 
 ---
 
 ### 5. Afbakening van het probleem
-...
+
+Wij willen een duidelijke en goed onderbouwde prototype maken van de overzichtspagina en de detail pagina, wij maken dit op figma en de onderbouwing via een design rationale. 
 
 ---
 
