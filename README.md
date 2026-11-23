@@ -14,7 +14,14 @@ Design Brief | Teamopdracht Buitenruimte
 
 ---
 
-### 1. Aanleiding
+### 1. Achtergrond 
+
+FDND (Frontend Design & Development) is een tweejarige Associate degree-opleiding aan de Hogeschool van Amsterdam. De opleiding richt zich op het opleiden van frontend developers die websites en webapplicaties kunnen ontwerpen en ontwikkelen. FDND biedt onderwijs op het gebied van webdesign, frontend development, UX en digitale toegankelijkheid.
+
+
+---
+
+### 2. Aanleiding
 
 De huidige projectpagina van de studie FDND (onze opdrachtgever) is moeilijk te begrijpen en overzien voor hun mogelijke opdrachtgevers.
 
@@ -22,7 +29,7 @@ Onze opdrachtgever heeft een etalage-website nodig om projecten mooi en overzich
 
 ---
 
-### 2. Stakeholders
+### 3. Stakeholders
 
 | Stakeholder | Belang |
 | :--- | :--- |
@@ -38,13 +45,13 @@ Contact op leggen met oude opdrachtgevers,
 
 ---
 
-### 3. Design Challenge
+### 4. Design Challenge
 
 FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande opdrachtgevers eenvoudig projecten kunnen ontdekken, de verhalen erachter begrijpen en een duidelijk beeld krijgen van wat FDND te bieden heeft.
 
 ---
 
-### 4. Taakverdeling
+### 5. Taakverdeling
 | Teamlid | Verantwoordelijkheid |
 | :--- | :--- |
 | **Kioko** | ... |
@@ -54,7 +61,7 @@ FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande 
 
 ---
 
-### 5. Afbakening van het probleem
+### 6. Afbakening van het probleem
 
 Wij willen een duidelijke en goed onderbouwde prototype maken van de overzichtspagina en de detail pagina, wij maken dit op figma en de onderbouwing via een design rationale. 
 
