@@ -9,7 +9,7 @@ Design Brief | Teamopdracht Buitenruimte
 **Contactpersoon:** Joost Faber · [j.faber@hva.nl](mailto:j.faber@hva.nl)  
 **Project:** FDND Etalage  
 **Teamnaam:** Nog te bepalen  
-**Teamleden:** Kioko Reijerts, Joost Locher, Safae El Arrass & Thijs Dekker 
+**Teamleden:** Kioko Reijerts, Joost Locher, Safae El Arrass & Thijs Dekker  
 **Datum:** 20 november 2026
 
 ---
@@ -32,18 +32,15 @@ Onze opdrachtgever heeft een etalage-website nodig om projecten mooi en overzich
 | **Eerdere opdrachtgevers** | Eerder uitgevoerde projecten eenvoudig terugvinden. |
 | **Potentiële studenten** | Zien aan welke projecten tijdens de opleiding wordt gewerkt. |
 | **CMD-studenten** | Projecten en processen terugzien wanneer zij werk overnemen. |
-
-<br>
-
-**Doelgroep bereiken**
-
+  
+**Doelgroep bereiken**  
 Contact op leggen met oude opdrachtgevers,
 
 ---
 
 ### 3. Design Challenge
 
-FDND wil de huidige projectetalage verder ontwikkelen, zodat de projecten en hun verhalen duidelijk naar voren komen om zowel nieuwe als huidige opdrachtgevers enthousiast te maken over het werk van FDND.
+FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande opdrachtgevers eenvoudig projecten kunnen ontdekken, de verhalen erachter begrijpen en een duidelijk beeld krijgen van wat FDND te bieden heeft.
 
 ### Taakverdeling
 | Teamlid | Verantwoordelijkheid |
