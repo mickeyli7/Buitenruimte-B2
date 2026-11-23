@@ -54,10 +54,10 @@ FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande 
 ### 5. Taakverdeling
 | Teamlid | Verantwoordelijkheid |
 | :--- | :--- |
-| **Kioko** | ... |
-| **Joost** | ... |
-| **Rafae** | ... |
-| **Thijs** | ... |
+| **Kioko** | Debrief |
+| **Joost** | Debrief |
+| **Rafae** | Debrief |
+| **Thijs** | Debrief |
 
 ---
 
