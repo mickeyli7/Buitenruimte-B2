@@ -42,7 +42,9 @@ Contact op leggen met oude opdrachtgevers,
 
 FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande opdrachtgevers eenvoudig projecten kunnen ontdekken, de verhalen erachter begrijpen en een duidelijk beeld krijgen van wat FDND te bieden heeft.
 
-### Taakverdeling
+---
+
+### 4. Taakverdeling
 | Teamlid | Verantwoordelijkheid |
 | :--- | :--- |
 | **Kioko** | ... |
@@ -52,7 +54,7 @@ FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande 
 
 ---
 
-### 4. Afbakening van het probleem
+### 5. Afbakening van het probleem
 ...
 
 ---
