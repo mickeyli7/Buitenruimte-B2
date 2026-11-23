@@ -54,10 +54,23 @@ FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande 
 ### 5. Taakverdeling
 | Teamlid | Verantwoordelijkheid |
 | :--- | :--- |
-| **Kioko** | Debrief |
-| **Joost** | Debrief |
-| **Rafae** | Debrief |
-| **Thijs** | Debrief |
+| **Kioko** | Debrief - Responsive - VID - Concept - Content|
+| **Joost** | Debrief - Typografie - VID |
+| **Rafae** | Debrief - VID - Animaties -UX|
+| **Thijs** | Debrief - VID - Concept |
+
+Bij het design zijn deze dingen belangrijk:
+
+toegankelijkheid, performance, responsive design en progressive enhancement.
+
+Toegankelijkheid - Toegankelijk voor iedereen denk aan leesbaarheid , kleur , grootte van buttons. 
+
+Perfomance - moet goed runnen 
+
+Responsive design - Web en mobiele variant 
+
+Progressive enhancement - is een strategie binnen webontwikkeling waarbij de basisfunctionaliteit van een website voor elke gebruiker werkt, ongeacht de browser of internetsnelheid, en vervolgens geavanceerde functies worden toegevoegd voor moderne apparaten.
+
 
 ---
 
