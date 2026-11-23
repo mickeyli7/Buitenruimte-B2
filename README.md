@@ -61,7 +61,7 @@ FDND wil de huidige projectetalage verbeteren, zodat zowel nieuwe als bestaande 
 
 Bij het design zijn deze dingen belangrijk:
 
-toegankelijkheid, performance, responsive design en progressive enhancement.
+Toegankelijkheid, performance, responsive design en progressive enhancement.
 
 Toegankelijkheid - Toegankelijk voor iedereen denk aan leesbaarheid , kleur , grootte van buttons. 
 
