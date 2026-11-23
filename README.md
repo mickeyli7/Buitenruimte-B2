@@ -50,7 +50,7 @@ FDND wil de huidige projectetalage verder ontwikkelen, zodat de projecten en hun
 | :--- | :--- |
 | **Kioko** | ... |
 | **Joost** | ... |
-| **Rafea** | ... |
+| **Rafae** | ... |
 | **Student** | ... |
 
 ---
